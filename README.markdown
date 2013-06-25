@@ -1,6 +1,6 @@
 ## vim-tips-mycalc
 
-Replace the line with a mathematical operation with its calclation.
+Replace the line with a mathematical operation with its calculation.
 
 Snippet created 2006, author Luis A. Florit: [Calculator Editing](http://vim.wikia.com/wiki/Calculator_Editing)
 
